@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "7ReoMrLRTcC44OlgxMVvfr4XUOEJFYQTM0Bco59cU/o=",
+  "Hash": "PkRjgImxKcM+pXAcsZb9wZYdByPraJ7zei2cPtKM8Jo=",
   "Source": "SportsStore",
   "BasePath": "_content/SportsStore",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "SportsStore\\wwwroot",
+      "Source": "SportsStore",
+      "ContentRoot": "C:\\Users\\Vyacheslav\\Desktop\\Программирование\\SportsStore\\SportsStore\\wwwroot\\",
+      "BasePath": "_content/SportsStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vyacheslav\\Desktop\\Программирование\\SportsStore\\SportsStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "SportsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vyacheslav\\Desktop\\Программирование\\SportsStore\\SportsStore\\wwwroot\\",
+      "BasePath": "_content/SportsStore",
+      "RelativePath": "lib/twitter-bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css"
+    }
+  ]
 }

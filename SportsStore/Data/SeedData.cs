@@ -36,7 +36,7 @@ namespace SportsStore.Data
                         new Product
                         {
                             Name = "Футбольный мяч",
-                            Description = "Размер и вес, одобренные FIFA.",
+                            Description = "Размер и вес, одобренные FIFA",
                             Category = "Футбол",
                             Price = 19.50m
                         },
@@ -46,6 +46,41 @@ namespace SportsStore.Data
                             Description = "Придайте своему игровому полю профессиональный вид",
                             Category = "Футбол",
                             Price = 34.95m
+                        },
+                        new Product
+                        {
+                            Name = "Стадион",
+                            Description = "Плоский формат на 35 000 мест – профессиональный подход",
+                            Category = "Футбол",
+                            Price = 79500
+                        },
+                        new Product
+                        {
+                            Name = "Мыслящая шапка",
+                            Description = "Повысьте эффективность мозга на 75%",
+                            Category = "Шахматы",
+                            Price = 16
+                        },
+                        new Product
+                        {
+                            Name = "Неустойчивый стул",
+                            Description = "Тайно дайте противнику преимущество",
+                            Category = "Шахматы",
+                            Price = 29.95m
+                        },
+                        new Product
+                        {
+                            Name = "Человеческая шахматная доска",
+                            Description = "Веселая игра для всей семьи",
+                            Category = "Шахматы",
+                            Price = 75
+                        },
+                        new Product
+                        {
+                            Name = "Шикарный король",
+                            Description = "Позолоченный король с бриллиантами",
+                            Category = "Шахматы",
+                            Price = 1200
                         }
                     );
 

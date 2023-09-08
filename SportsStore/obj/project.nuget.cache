@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKqkGZtrgKoLF4IfRs0n8zHvPkz0rQnleAMXyT/Hs3X2yGRZF0pO3WqK5uW5aaLwt0Dl1oXz8iW/PVlNG0NitA==",
+  "dgSpecHash": "TDoiQLELmhVmXRnFqSVjouAAKm4aNzWp2l7n7XMu1Gcm/9W57VM0wxX7Tvlur0Tvn+LoIxA6zXveytbSJFr40w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vyacheslav\\Desktop\\SportsStore\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\Vyacheslav\\Desktop\\Программирование\\SportsStore\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
